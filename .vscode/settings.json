@@ -1,3 +1,10 @@
 {
-    "sqltools.connections": []
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "jobs_db",
+            "database": "backend/sql_app.db"
+        }
+    ]
 }

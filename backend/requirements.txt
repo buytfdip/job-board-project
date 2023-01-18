@@ -1,4 +1,4 @@
-fastapi
+fastapi[all]
 uvicorn
 
 #for template
@@ -8,7 +8,7 @@ jinja2
 aiofiles
 
 #for database
-sqlalchemy
+sqlalchemy<2.0
 psycopg2-binary
 
 #for loading environment variables
