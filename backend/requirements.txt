@@ -42,3 +42,6 @@ aiosqlite
 
 #seedir to print tree structure of folders
 seedir
+
+#keeps pytest from throwing errors
+httpx
