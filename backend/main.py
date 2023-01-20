@@ -5,7 +5,6 @@ from apis.version1.route_general_pages import general_pages_router
 from db.session import engine  
 from db.base import Base
 
-
 def include_router(app):
 	app.include_router(general_pages_router)
 
