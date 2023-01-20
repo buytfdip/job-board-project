@@ -10,5 +10,6 @@
             "username": "jgm92085",
             "database": "job_db"
         }
-    ]
+    ],
+    //"sqltools.useNodeRuntime": true,
 }
